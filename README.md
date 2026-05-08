@@ -4,16 +4,11 @@
 
 ## 🚀 Tecnologias
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="70" width="70"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
-  <img align="center" alt="Spring" height="70" width="70"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-
-  <img align="center" alt="MySQL" height="70" width="70"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+</p>
 
 ## 🚀 Tecnologias
 - Java
