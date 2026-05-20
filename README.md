@@ -1,6 +1,6 @@
 ## 👋 Sou Emanuel Viktor , Desenvolvedor Back-end Java. 
  
-## 🚀 Tecnologias & Ferramentas 
+## 🚀 Tecnologias 
  
  👨‍💻 Back-end
 <p align="left">
@@ -45,13 +45,17 @@
     src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
   />
 </p>
-🎓 Formação 📚 Cursando Ciência da Computação — 5º período 
+## 🎓 Formação
 
-📌 Objetivo :Buscando evoluir como desenvolvedor Back-end Java, aprimorando minhas habilidades em APIs
+📚 Cursando Ciência da Computação — 5º período 
+
+## 📌 Objetivo 
+
+Buscando evoluir como desenvolvedor Back-end Java, aprimorando minhas habilidades em APIs
 REST, bancos de dados e arquitetura de software para criar aplicações modernas e
 bem estruturadas.
 
-📫 Contato
+## 📫 Contato
 <p align="left">
   <a href="https://www.linkedin.com/in/emanuel-viktor-719982364">
     <img
