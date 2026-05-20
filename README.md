@@ -1,6 +1,6 @@
 ## 👋 Sou Emanuel Viktor , Desenvolvedor Back-end Java. 
  
- 🚀 Tecnologias & Ferramentas 
+## 🚀 Tecnologias & Ferramentas 
  
  👨‍💻 Back-end
 <p align="left">
@@ -13,7 +13,7 @@
   <img
     src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
   />
-  <img
+ ## <img
     src="https://img.shields.io/badge/API_REST-009688?style=for-the-badge&logo=fastapi&logoColor=white"
   />
 </p>
