@@ -17,7 +17,7 @@
     src="https://img.shields.io/badge/API_REST-009688?style=for-the-badge&logo=fastapi&logoColor=white"
   />
 </p>
-### 🗄️ Banco de Dados
+🗄️ Banco de Dados
 <p align="left">
   <img
     src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
